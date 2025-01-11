@@ -1,0 +1,41 @@
+      #TAKE {
+        color: white; 
+        text-decoration: none;}
+      .horse{
+         text-align: center;}
+      #emp{text-decoration: none; 
+        text-emphasis: strong; 
+        color: white;}
+      #hor{
+        width: 130px;}
+      .hotto{ 
+         display: flex; 
+         justify-content: space-around;}
+        .medd {color: white; 
+          text-align: center;}
+        .column{width: 10%; 
+          padding: 2.5px;}
+        .row{ display: flex; 
+          justify-content: center;}
+        #ubn1{text-decoration: none; 
+          color:white ; }
+          #ubn2{
+            text-decoration: none; 
+          color:white ;
+          }
+          #ubn3{
+            text-decoration: none; 
+          color:white ; margin-right: 10px ;
+          }
+          #ubn4{
+            text-decoration: none; 
+          color:white ;
+          }
+        .ross{display: flex; 
+          text-decoration: none; 
+            justify-content: end;
+             background-color: black; 
+             margin: 10; 
+            padding: 0; 
+            height: 3vh; 
+            width: 100%;}
